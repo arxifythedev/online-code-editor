@@ -35,3 +35,23 @@ $ python3 -m http.server 80
 <br>
 
 Now, you'll be able to access the server on your `localhost:80`.
+
+# Self-hosting with Docker
+Requirements:
+
+* [Docker Daemon](https://docker.com)
+
+* Basic terminal knowledge
+
+## Guide
+
+This is very simple. Just create a container with the image that I made for this project.<br>
+```sh
+$ docker run -p 80:80 --name online-code-editor arxify/online-code-editor:latest
+```
+# Access
+If you don't want to self-host the website, you can access it [here](#).
+
+# Credits
+Arxify Innovations, 2022.
+Licensed under the [MIT License](https://github.com/ArxifyByte/online-code-editor/tree/main/LICENSE).
