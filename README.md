@@ -25,7 +25,7 @@ Then, enter the folder that you just cloned.<br>
 ```sh
 $ cd online-code-editor
 ```
-<br>
+<br
 
 And finally, host it on a local server in your computer:<br>
 ```sh
