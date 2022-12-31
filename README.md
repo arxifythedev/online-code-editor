@@ -53,5 +53,5 @@ $ docker run -p 80:80 --name online-code-editor arxify/online-code-editor:latest
 If you don't want to self-host the website, you can access it [here](#).
 
 # Credits
-Arxify Innovations, 2022.
+Arxify Innovations, 2022.<br>
 Licensed under the [MIT License](https://github.com/ArxifyByte/online-code-editor/tree/main/LICENSE).
