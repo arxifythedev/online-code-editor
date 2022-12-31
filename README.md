@@ -1,7 +1,5 @@
-<div align="center">
-  <h1>Online Code Editor</h1>
-  <h3A useful tool to edit your code online.</h3>
- </div>
+# Online Code Editor
+A useful tool to edit your code and text online.
 # Features
 - [x] Change the font size 
 - [x] Change the color 
@@ -9,7 +7,7 @@
 - [x] Change the type of text
 - [x] Add links
 - [ ] Syntax highlighting
-# Self-hosting
+# Self-hosting with Python
 Requirements:<br><br>
 
 * Python 3.x
@@ -19,3 +17,20 @@ Requirements:<br><br>
 ## Guide
 
 First, clone this repo using this command:<br>
+```sh
+$ git clone https://github.com/ArxifyByte/online-code-editor.git
+```
+<br><br>
+Then, enter the folder that you just cloned.<br>
+```sh
+$ cd online-code-editor
+```
+<br><br>
+
+And finally, host it on a local server in your computer:<br>
+```sh
+$ python3 -m http.server 80
+```
+<br><br>
+
+Now, you'll be able to access the server on your `localhost:80`.
