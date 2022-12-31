@@ -8,7 +8,7 @@ A useful tool to edit your code and text online.
 - [x] Add links
 - [ ] Syntax highlighting
 # Self-hosting with Python
-Requirements:<br><br>
+Requirements:<br>
 
 * Python 3.x
 
