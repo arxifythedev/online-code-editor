@@ -51,8 +51,9 @@ $ docker run -p 80:80 --name online-code-editor arxify/online-code-editor:latest
 ```
 # Access
 If you don't want to self-host the website, you can access via this two demo links:<br>
-[https://codeeditor-129bf.firebaseapp.com/](https://codeeditor-129bf.firebaseapp.com/)<br>
-[https://monumental-maamoul-db9785.netlify.app/](https://monumental-maamoul-db9785.netlify.app/)
+* [https://codeeditor-129bf.firebaseapp.com/](https://codeeditor-129bf.firebaseapp.com/)
+
+* [https://monumental-maamoul-db9785.netlify.app/](https://monumental-maamoul-db9785.netlify.app/)
 
 # Credits
 Arxify Innovations, 2022.<br>
