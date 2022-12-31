@@ -20,17 +20,17 @@ First, clone this repo using this command:<br>
 ```sh
 $ git clone https://github.com/ArxifyByte/online-code-editor.git
 ```
-<br><br>
+<br>
 Then, enter the folder that you just cloned.<br>
 ```sh
 $ cd online-code-editor
 ```
-<br><br>
+<br>
 
 And finally, host it on a local server in your computer:<br>
 ```sh
 $ python3 -m http.server 80
 ```
-<br><br>
+<br>
 
 Now, you'll be able to access the server on your `localhost:80`.
