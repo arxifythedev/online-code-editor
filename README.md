@@ -26,6 +26,7 @@ Then, enter the folder that you just cloned.<br>
 $ cd online-code-editor
 ```
 <br>
+
 And finally, host it on a local server in your computer:<br>
 ```sh
 $ python3 -m http.server 80
