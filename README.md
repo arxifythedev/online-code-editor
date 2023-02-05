@@ -57,4 +57,5 @@ If you don't want to self-host the website, you can access via this two demo lin
 
 # Credits
 Arxify Innovations, 2022.<br>
+Credits to [AsmrProg](https://www.youtube.com/@AsmrProg) for most of the code. (I improved and changed some of it)<br>
 Licensed under the [MIT License](https://github.com/ArxifyByte/online-code-editor/tree/main/LICENSE).
