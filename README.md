@@ -58,4 +58,6 @@ If you don't want to self-host the website, you can access via this two demo lin
 # Credits
 Arxify Innovations, 2022.<br>
 Credits to [AsmrProg](https://www.youtube.com/@AsmrProg) for most of the code. (I improved and changed some of it)<br>
-Licensed under the [MIT License](https://github.com/ArxifyByte/online-code-editor/tree/main/LICENSE).
+Licensed under the [MIT License](https://github.com/ArxifyByte/online-code-editor/tree/main/LICENSE).<br>
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=39256295335f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
