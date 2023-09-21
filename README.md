@@ -18,7 +18,7 @@ Requirements:<br>
 
 First, clone this repo using this command:<br>
 ```sh
-$ git clone https://github.com/ArxifyByte/online-code-editor.git
+$ git clone https://github.com/DevArxify/online-code-editor.git
 ```
 <br>
 
