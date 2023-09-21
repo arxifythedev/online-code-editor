@@ -1,5 +1,7 @@
 # Online Code Editor
 A useful tool to edit your code and text online.
+# Note
+This project is no longer mantained and will not be updated for the forseeable future.
 # Features
 - [x] Change the font size 
 - [x] Change the color 
